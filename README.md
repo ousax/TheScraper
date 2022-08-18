@@ -1,4 +1,4 @@
-# {Description} 
+# Description
 
 TheScraper is a simple script to scrap and get data from websites such as html code css and js files images
 
@@ -12,7 +12,7 @@ the headers especially The User-Agent from by the command line -ua [iphone or an
 
 It will use the android's User-Agent as default
 
-# {Requirements}
+# Requirements
 
 Requests [get]
 
@@ -20,7 +20,7 @@ bs4 [BeautifulSoup]
 
 mechanize [Initiate the Browser]
 
-# {Usage}
+# Usage
 
 python3 theScraper.py -f filename.txt -ua iphone
 
@@ -28,7 +28,7 @@ python3 theScraper.py -f filename.txt -ua iphone
 
 -ua The User-Agent iphone/android
 
-# {Desclaimer} 
+# Desclaimer 
 
 This script is only for Educational Purposes
 
