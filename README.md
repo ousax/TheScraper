@@ -1,8 +1,8 @@
 # {Description} 
 
-TheScraper is a simple to scrap and get data from websites such html code css and js files images
+TheScraper is a simple script to scrap and get data from websites such as html code css and js files images
 
-It uses some built-in modules/functions like mkdir chdir ..., and non built-in ones such as  
+It uses some built-in modules/functions like mkdir chdir ..., and non built-in ones like 
 
 Requests , bs4 and mechanize.
 
