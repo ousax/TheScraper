@@ -28,8 +28,6 @@ python3 theScraper.py -f filename.txt -ua iphone
 
 -ua The User-Agent iphone/android
 
-# Desclaimer 
-
 This script is only for Educational Purposes
 
 I don't take the responsability for the missuse of this script
